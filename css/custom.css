@@ -1,3 +1,11 @@
 .parallax-last {
   height: 900px;
 }
+
+.tategaki {
+  -webkit-writing-mode: vertical-rl;
+  -ms-writing-mode: tb-rl;
+  writing-mode: vertical-rl;
+  position: absolute;
+  right: 300px;
+}
