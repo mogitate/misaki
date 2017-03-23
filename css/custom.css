@@ -1,3 +1,7 @@
+.parallax-first {
+  height: 750px;
+}
+
 .parallax-last {
   height: 900px;
 }
@@ -8,4 +12,9 @@
   writing-mode: vertical-rl;
   position: absolute;
   right: 300px;
+}
+
+.logo {
+  width: 100%;
+  height: 100%;
 }
