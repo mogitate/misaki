@@ -11,7 +11,8 @@
   -ms-writing-mode: tb-rl;
   writing-mode: vertical-rl;
   position: absolute;
-  right: 300px;
+  right: 100px;
+  top: 300px;
 }
 
 .logo {
