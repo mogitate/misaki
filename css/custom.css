@@ -3,7 +3,7 @@
 }
 
 .parallax-last {
-  height: 900px;
+  height: 1200px;
 }
 
 .tategaki {
@@ -17,6 +17,7 @@
 .logo {
   width: 50%;
   height: 50%;
+  min-width : 400px;
 }
 
 .icon {
