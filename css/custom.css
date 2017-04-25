@@ -39,3 +39,29 @@
 html {
   font-family: "Noto Sans Japanese";
 }
+
+@media screen and (min-width:0px){
+  .icon-shop {
+    -webkit-writing-mode: vertical-rl;
+    -ms-writing-mode: tb-rl;
+    writing-mode: vertical-rl;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    width: 50px;
+    height: 50px;
+  }
+}
+
+@media screen and (min-width:430px){
+  .icon-shop {
+    -webkit-writing-mode: vertical-rl;
+    -ms-writing-mode: tb-rl;
+    writing-mode: vertical-rl;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    width: 100px;
+    height: 100px;
+  }
+}
